@@ -1,0 +1,2 @@
+# CodemaoAutoScript
+由脚本猫驱动的编程猫自动化脚本的开源仓库
